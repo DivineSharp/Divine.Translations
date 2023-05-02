@@ -1,5 +1,5 @@
-[
-  "Привет",
-  "Рокко",
-  "Джимбо"
-]
+{
+  "Hello World": "Hello World",
+  "A": "Hello World2",
+  "B": "BBBBB"
+}
